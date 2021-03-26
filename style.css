@@ -317,7 +317,14 @@ input[id="checkmenu"]:checked ~ #menu {
     .sum h3:active,
     .sum h3:hover{
       background-size: 100% 10%;
-    } 
+    }
+    
+    .projects{
+      display: block;
+      width: auto;
+      text-align: center;
+
+    }
   
   .social{
         display: flex;
@@ -329,6 +336,8 @@ input[id="checkmenu"]:checked ~ #menu {
     .social img{
         width: 40%;
     }
+  
+
 }
 
 .portfolio-title{
@@ -368,6 +377,8 @@ input[id="checkmenu"]:checked ~ #menu {
     .timeline img:hover{
       transform: scale(1.2);
     }
+
+   
   }
   
   .timeline:before {
@@ -513,3 +524,4 @@ input[id="checkmenu"]:checked ~ #menu {
   .direction-r .desc {
     margin: 1em 0 0 0.75em;
   }
+
