@@ -3,7 +3,7 @@ Portfólio de Vinicius Zimmer
 
 <h1 align="center">Portfólio de Vinicius Zimmer</h1>
 
-💻 Link do repositório: <br> (ABRA EM UM PC)
+💻 Link do repositório: (ABRA EM UM PC) <br> 
 https://viniciuszimmer.github.io/Portfolio/ 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/73594036/112875394-7fe4da80-909a-11eb-904a-3943b76b421c.png)
